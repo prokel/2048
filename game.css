@@ -1,0 +1,14 @@
+.block {
+	background-color: red;
+	width: 200px;
+	height: 200px;
+	/**
+	 * position: tells an element how to position itself
+	 *   - static: just display itself (default)
+	 *   - absolute: move itself to the exact position specified
+	 *   - relative: move itself according to its current position
+	 */
+	position: relative;
+	left: 0px;
+	top: 0px;
+}
